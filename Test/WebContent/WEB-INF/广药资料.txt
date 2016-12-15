@@ -1,0 +1,11 @@
+Test接口：
+
+appId:TEST
+
+autoCode:123
+
+http://14.23.102.90:8080/ccpp/rest/
+
+药品价格和库存查询:
+http://14.23.102.90:8080/ccpp/rest/goods/priceStockOne
+{"appId":"TEST";"authCode":"123"}
